@@ -91,8 +91,9 @@ Fitur aplikasi disesuaikan dengan kebutuhan operasional UPTD-PPA.
 
 ## Pengembang
 
-Dikembangkan sebagai proyek sistem informasi UPTD-PPA.
+Dibuat dan dikembangkan oleh **Putra agus muslimin**.
 
----
+Database sistem silahkan hubungi +6283197668930
+[GitHub](https://github.com/PutraAgusMuslimin)
 
-© 2026 Sistem Informasi UPTD-PPA.
+© 2026
