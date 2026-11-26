@@ -93,7 +93,9 @@ Fitur aplikasi disesuaikan dengan kebutuhan operasional UPTD-PPA.
 
 Dibuat dan dikembangkan oleh **Putra agus muslimin**.
 
-Database sistem silahkan hubungi +6283197668930
+Sistem dapat dibeli langsung di
+[Lynk.id] (http://lynk.id/msputra/peoyyyyyjdmj/)
 [GitHub](https://github.com/PutraAgusMuslimin)
+
 
 © 2026
